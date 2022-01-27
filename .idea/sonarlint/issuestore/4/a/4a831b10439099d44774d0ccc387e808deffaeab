@@ -1,0 +1,13 @@
+
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8¾ÈİÙé/
+‚
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(ÛÂÓ¶üÿÿÿÿ8ÂÈİÙé/
+}
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(¹÷à8ÄÈİÙé/
+‚
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(½¼°²ÿÿÿÿÿ8ÅÈİÙé/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ„Èäûÿÿÿÿ8‰ÑÙÙé/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(Çé‡Í8ØÂÚé/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ¼÷8´¶¸Úé/
